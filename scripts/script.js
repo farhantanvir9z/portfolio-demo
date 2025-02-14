@@ -36,3 +36,4 @@ function init(){
   clicked2();
   clicked3();
 }
+init();
